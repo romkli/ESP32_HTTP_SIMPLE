@@ -20,6 +20,8 @@
 #include "esp_tls_crypto.h"
 #include <esp_http_server.h>
 
+#include "../components/RK_HTTP/rk_http.h"
+
 /* A simple example that demonstrates how to create GET and POST
  * handlers for the web server.
  */
